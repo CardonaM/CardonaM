@@ -61,6 +61,7 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 
 ### 🧩 Core Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,js&theme=light)](https://skillicons.dev)
+
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -71,10 +72,9 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,elasticsearch&theme=light)](https://skillicons.dev)
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
