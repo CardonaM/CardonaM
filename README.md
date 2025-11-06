@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-github-readme-activity-graph
-github-readme-stats
+## 📈 Mis estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CardonaM&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardonaM&layout=compact&theme=tokyonight)
+
+## 🔥 Mi actividad reciente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CardonaM&theme=tokyo-night)
 
 <p align="center">
   <a href="https://skillicons.dev">
