@@ -15,43 +15,43 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 
 ## 💼 Professional Experience
 
-- **Software Engineer @ promatch.biz** (Berlin, Germany)  
+- **Software Engineer @ promatch.biz** (Berlin, Germany) 2024-Current
   - Developing and deploying Docker-based microservices and frontend-backend systems.  
   - Managing cloud-native storage with **MinIO**, **Grafana-Loki-Promtail** logging stacks, and **NGINX reverse proxy** optimization.  
   - Architecting scalable Spring Boot microservices and implementing **JWT-based security layers**.  
 
-- **Software Engineer @ IDS Comercial / GNP** (Mexico City, MX)  
+- **Software Engineer @ IDS Comercial / GNP** (Mexico City, MX) 2023-2024
   - Designed RESTful microservices using **Spring Boot (Java 11)** and **MySQL**.  
   - Automated delivery pipelines with **Jenkins** and **Harness** for CI/CD.  
   - Integrated **JWT authentication** and **Spring Security** for enterprise-grade systems.  
 
-- **Software Engineer @ Softtek - Liberty Mutual Insurance**  (Mexico City, MX)
+- **Software Engineer @ Softtek - Liberty Mutual Insurance**  (Mexico City, MX) 2021-2023
   - Led migration of monolithic systems to **Spring Boot microservices**.  
   - Built AWS deployment pipelines, improving performance and reducing release cycles by 50%.  
 
-- **Software Engineer @ Gesfor - Alsea / Gentera**  (Mexico City, MX)
+- **Software Engineer @ Gesfor - Alsea / Gentera**  (Mexico City, MX) 2017-2021
   - Architected AWS Lambda + SQS event-driven microservices.  
   - Developed real-time integration with external APIs (Uber Eats, SAP).  
   - Optimized SQL queries and Elasticsearch clusters for scalable data access.
  
-- **Software Engineer @ Vantis - Walmart**  (Mexico City, MX)
+- **Software Engineer @ Vantis - Walmart**  (Mexico City, MX) 2016-2017
   - Architected microservices.  
   - Developed real-time integration with external APIs.  
   - Optimized SQL SOLR queries for scalable data access.
  
-- **Software Engineer @ Barared** (Mexico City, MX)  
+- **Software Engineer @ Barared** (Mexico City, MX) 2016
   - Designed RESTful microservices using **Spring Boot** and **MySQL**.  
   - 1&1 IONOS.
     
-- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  
+- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX) 2014-2016  
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
-- **Software Engineer @ Banco**  (Mexico City, MX)  
+- **Software Engineer @ Banco**  (Mexico City, MX)  2012-2014
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
-- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  
+- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  2012
   - Developed web aplications.  
   - Optimized SQL Oracle.
 
