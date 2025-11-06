@@ -89,7 +89,7 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CardonaM)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/CardonaM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-alejandro-c-160511206/)
 [![Website](https://img.shields.io/badge/Portfolio-promatch.biz-2EA44F?style=for-the-badge&logo=safari&logoColor=white)](https://promatch.biz/share?Miguel-Alejandro-Cardona-Contreras-1)
 [![Email](https://img.shields.io/badge/Email-cardona.contreras.ma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardona.contreras.ma@gmail.com)
