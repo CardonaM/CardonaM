@@ -25,14 +25,35 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
   - Automated delivery pipelines with **Jenkins** and **Harness** for CI/CD.  
   - Integrated **JWT authentication** and **Spring Security** for enterprise-grade systems.  
 
-- **Software Engineer @ Softtek - Liberty Mutual Insurance**  
+- **Software Engineer @ Softtek - Liberty Mutual Insurance**  (Mexico City, MX)
   - Led migration of monolithic systems to **Spring Boot microservices**.  
   - Built AWS deployment pipelines, improving performance and reducing release cycles by 50%.  
 
-- **Software Engineer @ Gesfor - Alsea / Gentera**  
+- **Software Engineer @ Gesfor - Alsea / Gentera**  (Mexico City, MX)
   - Architected AWS Lambda + SQS event-driven microservices.  
   - Developed real-time integration with external APIs (Uber Eats, SAP).  
   - Optimized SQL queries and Elasticsearch clusters for scalable data access.
+ 
+- **Software Engineer @ Vantis - Walmart**  (Mexico City, MX)
+  - Architected microservices.  
+  - Developed real-time integration with external APIs.  
+  - Optimized SQL SOLR queries for scalable data access.
+ 
+- **Software Engineer @ Barared** (Mexico City, MX)  
+  - Designed RESTful microservices using **Spring Boot** and **MySQL**.  
+  - 1&1 IONOS.
+    
+- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  
+  - Developed web aplications.  
+  - Optimized SQL Oracle.
+    
+- **Software Engineer @ Banco**  (Mexico City, MX)  
+  - Developed web aplications.  
+  - Optimized SQL Oracle.
+    
+- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  
+  - Developed web aplications.  
+  - Optimized SQL Oracle.
 
 ---
 
