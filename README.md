@@ -60,6 +60,8 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 ## ⚙️ Technical Stack
 
 ### 🧩 Core Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,js&theme=light)](https://skillicons.dev)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
