@@ -61,19 +61,11 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 
 ### 🧩 Core Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,js&theme=light)](https://skillicons.dev)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,grafana,jenkins&theme=light)](https://skillicons.dev)
+
 ![Harness](https://img.shields.io/badge/HARNESS-3A84FF?style=for-the-badge&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logoColor=white)
