@@ -43,15 +43,15 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
   - Designed RESTful microservices using **Spring Boot** and **MySQL**.  
   - 1&1 IONOS.
     
-- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX) 2014-2016  
+- **Software Engineer @ Secretaría de Economía | Government**  (Mexico City, MX) 2014-2016  
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
-- **Software Engineer @ Banco**  (Mexico City, MX)  2012-2014
+- **Software Engineer @ Bank**  (Mexico City, MX)  2012-2014
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
-- **Software Engineer @ Secretaría de Economía | Gobierno**  (Mexico City, MX)  2012
+- **Software Engineer @ Secretaría de Economía | Government**  (Mexico City, MX)  2012
   - Developed web aplications.  
   - Optimized SQL Oracle.
 
