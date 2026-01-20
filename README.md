@@ -47,7 +47,7 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
-- **Software Engineer @ Bank**  (Mexico City, MX)  2012-2014
+- **Software Engineer @ Aztec Bank**  (Mexico City, MX)  2012-2014
   - Developed web aplications.  
   - Optimized SQL Oracle.
     
