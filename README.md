@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Miguel Alejandro Cardona
 # Life ends, people leave us, but the code is forever.
-# I am God in one of his less perfect versions.
 
 🎯 **Software Engineer | Java | Spring Boot | Cloud & DevOps**
 
