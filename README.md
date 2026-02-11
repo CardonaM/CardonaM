@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Miguel Alejandro Cardona (God walks among you!)
+# Life ends, people leave us, but the code is forever.
 
 🎯 **Software Engineer | Java | Spring Boot | Cloud & DevOps**
 
