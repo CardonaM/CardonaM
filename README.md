@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Miguel Alejandro Cardona
-# Don't stop, just one more step.
+# Don't stop, just one more step. I am the master of my destiny.
 
 🎯 **Software Engineer | Java | Spring Boot | Cloud & DevOps**
 
