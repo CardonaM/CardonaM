@@ -15,7 +15,7 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
 
 ## 💼 Professional Experience
 
-- **Software Engineer @ promatch.biz** (Hamburg, Germany) 2024-Current
+- **Lead Full-Stack Engineer @ FactoryMobile.ai** (Hamburg, Germany) 2024-Current
   - Developing and deploying Docker-based microservices and frontend-backend systems.  
   - Managing cloud-native storage with **MinIO**, **Grafana-Loki-Promtail** logging stacks, and **NGINX reverse proxy** optimization.  
   - Architecting scalable Spring Boot microservices and implementing **JWT-based security layers**.  
@@ -34,14 +34,12 @@ I am passionate about **clean architecture**, **automation**, and **cloud optimi
   - Developed real-time integration with external APIs (Uber Eats, SAP).  
   - Optimized SQL queries and Elasticsearch clusters for scalable data access.
  
-- **Software Engineer @ Vantis - Walmart**  (Mexico City, MX) 2016-2017
+- **Software Engineer @ Barared** (Mexico City, MX) 2016-2017
+  - Designed RESTful microservices using **Spring Boot** and **MySQL**.  
+  - 1&1 IONOS.
   - Architected microservices.  
   - Developed real-time integration with external APIs.  
   - Optimized SQL SOLR queries for scalable data access.
- 
-- **Software Engineer @ Barared** (Mexico City, MX) 2016
-  - Designed RESTful microservices using **Spring Boot** and **MySQL**.  
-  - 1&1 IONOS.
     
 - **Software Engineer @ Secretaría de Economía | Government**  (Mexico City, MX) 2014-2016  
   - Developed web aplications.  
